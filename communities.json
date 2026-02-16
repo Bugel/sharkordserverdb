@@ -1,7 +1,7 @@
 {
   "servers": [
     {
-      "name": "bret's test server",
+      "name": "test refresh",
       "url": "redacted",
       "description": "TEST"
     },
@@ -13,3 +13,4 @@
   ]
 
 }
+
