@@ -2,7 +2,7 @@
   "servers": [
     {
       "name": "bret's test server",
-      "url": "https://sharkord.bretflix.xyz",
+      "url": "redacted",
       "description": "TEST"
     },
     {
@@ -11,4 +11,5 @@
       "description": "sharkord test server"
     }
   ]
+
 }
