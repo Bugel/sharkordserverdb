@@ -1,10 +1,5 @@
 {
-  "servers": [
-    {
-      "name": "(18+) Bret's Sharkord server",
-      "url": "https://chat.sharkordd.xyz/",
-      "description": "Chat about games, TV, movies!"
-    },
+  "servers":
     {
       "name": "demo sharkord",
       "url": "https://demo.sharkord.com",
